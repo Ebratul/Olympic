@@ -21,7 +21,7 @@
 ## 🌐 Live Demo
 
 👉 **Launch App:**  
-🔗 https://your-streamlit-app-link (replace with your Streamlit Cloud link)
+🔗 https://mainpy-dovw7sp8qszoy7692ne47t.streamlit.app/ (replace with your Streamlit Cloud link)
 
 ---
 
